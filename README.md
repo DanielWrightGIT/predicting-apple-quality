@@ -1,4 +1,4 @@
-# 🍎 Apple Quality Prediction 🍎
+# 🍎 Predictive Classification of Apples 🍎
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
